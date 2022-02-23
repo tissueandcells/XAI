@@ -1,2 +1,2 @@
 # XAI-Drug Targeting
-![GA_XAI](GA.png "Graphical Abstract")
+<img src="GA.png"/>
