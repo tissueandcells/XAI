@@ -8,3 +8,4 @@
 <img src="decision graphs.png"/>
 <img src="force graphs.png"/>
 <img src="heatmap graphs.png"/>
+<img src="SelectFromModel.png"/>
