@@ -18,7 +18,8 @@ We determined the importance contributions of the features with the SelectFromMo
 
 <img src="The top features were collected from the SelectFromModel of Random Forest Regressor model for Fe chelation-1.png"/>
 
-We visualized the contribution of features on model prediction with SHap graphs.
+We visualized the contribution of features on model prediction with SHAP graphs.
+
 <img src="Bar graphs.png"/>
 
 <img src="beeswarm graphs.png"/>
